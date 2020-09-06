@@ -33,5 +33,5 @@ func main() {
 		}
 	}
 
-	fmt.Fprintln(w, "ans = ", ans)
+	fmt.Fprintln(w, ans)
 }
