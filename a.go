@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-  alib "a/lib"
+	alib "a/lib"
 )
 
 func main() {
